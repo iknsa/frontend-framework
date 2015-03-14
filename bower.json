@@ -1,0 +1,27 @@
+{
+  "name": "iknsa-frontend-framework",
+  "version": "0.0.0",
+  "homepage": "https://github.com/iknsa/frontend-framework",
+  "authors": [
+    "Khalid Sookia <khalidsookia@gmail.com>"
+  ],
+  "description": "The ultimate Front End Framework entirely extendable and personalisable",
+  "keywords": [
+    "frontend",
+    "framework",
+    "front",
+    "end",
+    "ks-framework",
+    "ks-frontend-framework",
+    "iknsa",
+    "iknsa-frontend-framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
